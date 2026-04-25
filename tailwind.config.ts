@@ -39,6 +39,10 @@ export default {
           DEFAULT: "hsl(var(--accent))",
           foreground: "hsl(var(--accent-foreground))",
         },
+        cyan: "hsl(var(--cyan))",
+        gold: "hsl(var(--gold))",
+        glass: "hsl(var(--glass))",
+        "glass-border": "hsl(var(--glass-border))",
         popover: {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
@@ -63,7 +67,25 @@ export default {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+      backgroundImage: {
+        "hero-gradient": "var(--gradient-hero)",
+        "primary-gradient": "var(--gradient-primary)",
+        "card-gradient": "var(--gradient-card)",
+        "soft-gradient": "var(--gradient-soft)",
+      },
+      boxShadow: {
+        glow: "var(--shadow-glow)",
+        card: "var(--shadow-card)",
+      },
       keyframes: {
+        float: {
+          "0%, 100%": { transform: "translateY(0px)" },
+          "50%": { transform: "translateY(-14px)" },
+        },
+        reveal: {
+          from: { opacity: "0", transform: "translateY(18px)" },
+          to: { opacity: "1", transform: "translateY(0)" },
+        },
         "accordion-down": {
           from: {
             height: "0",
@@ -82,6 +104,8 @@ export default {
         },
       },
       animation: {
+        float: "float 6s ease-in-out infinite",
+        reveal: "reveal 0.7s ease-out both",
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
