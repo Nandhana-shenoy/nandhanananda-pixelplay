@@ -45,7 +45,7 @@ const services = [
 const projects = [
   {
     title: "Homeo Clinic Management System",
-    copy: "A full-featured client web application to manage appointments, patients, prescriptions, admin dashboard, secure authentication, and database integration.",
+    copy: "A full-featured web application developed for a real client to manage clinic operations efficiently, including appointment booking, patient management, prescriptions, an admin dashboard, secure authentication, and database integration.",
     tags: ["Django", "Python", "Database", "Auth"],
   },
   {
@@ -79,7 +79,7 @@ const Index = () => {
             ))}
           </div>
           <Button variant="hero" size="sm" asChild>
-            <a href="#contact"><ArrowDownToLine />Resume</a>
+            <a href="/nandhanananda-shenoy-resume.pdf" download><ArrowDownToLine />Resume</a>
           </Button>
         </div>
       </nav>
