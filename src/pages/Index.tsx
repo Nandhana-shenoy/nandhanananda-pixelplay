@@ -100,9 +100,6 @@ const Index = () => {
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <Button variant="hero" size="lg" asChild><a href="#projects">View Projects <ArrowRight /></a></Button>
             <Button variant="glass" size="lg" asChild><a href="#contact">Contact Me</a></Button>
-            <Button variant="glass" size="lg" asChild>
-              <a href="/nandhanananda-portfolio-source.zip" download><ArrowDownToLine />Download Source</a>
-            </Button>
           </div>
           <div className="mt-8 flex items-center gap-3">
             <a aria-label="GitHub" href="https://github.com/Nandhana-shenoy" className="glass-panel rounded-full p-3 transition-transform hover:-translate-y-1"><Github className="size-5" /></a>
