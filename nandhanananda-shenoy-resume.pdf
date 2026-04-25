@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2356 >>
+stream
+BT
+/F1 24 Tf 72 760 Td (Nandhanananda Shenoy) Tj
+-72 -760 Td
+/F1 13 Tf 72 735 Td (Full Stack Developer | Kerala, India) Tj
+-72 -735 Td
+/F1 10 Tf 72 715 Td (Phone: 9037174601 | Email: nandhanashenoy4@gmail.com) Tj
+-72 -715 Td
+/F1 10 Tf 72 700 Td (GitHub: github.com/Nandhana-shenoy) Tj
+-72 -700 Td
+/F1 14 Tf 72 670 Td (PROFILE) Tj
+-72 -670 Td
+/F1 10 Tf 72 650 Td (Passionate Full Stack Developer with hands-on experience building dynamic web applications) Tj
+-72 -650 Td
+/F1 10 Tf 72 635 Td (using Python and Django. Strong foundation in REST APIs, databases, and problem-solving,) Tj
+-72 -635 Td
+/F1 10 Tf 72 620 Td (with a continuous learning mindset and focus on practical real-world software.) Tj
+-72 -620 Td
+/F1 14 Tf 72 590 Td (EDUCATION) Tj
+-72 -590 Td
+/F1 10 Tf 72 570 Td (Master of Computer Applications \(MCA\), Mar Athanasios College For Advanced Studies | 2024-2026) Tj
+-72 -570 Td
+/F1 10 Tf 72 555 Td (B.Sc. Computer Science, Assumption College | 2021-2024) Tj
+-72 -555 Td
+/F1 14 Tf 72 525 Td (SKILLS) Tj
+-72 -525 Td
+/F1 10 Tf 72 505 Td (Languages: Python, C, C++, JavaScript) Tj
+-72 -505 Td
+/F1 10 Tf 72 490 Td (Frontend: HTML, CSS, React) Tj
+-72 -490 Td
+/F1 10 Tf 72 475 Td (Backend: Django, REST APIs) Tj
+-72 -475 Td
+/F1 10 Tf 72 460 Td (Databases: MySQL, SQLite, MongoDB) Tj
+-72 -460 Td
+/F1 10 Tf 72 445 Td (Core Concepts: OOP, DBMS, Machine Learning) Tj
+-72 -445 Td
+/F1 10 Tf 72 430 Td (Tools: VS Code, Linux, Postman) Tj
+-72 -430 Td
+/F1 14 Tf 72 400 Td (PROJECTS) Tj
+-72 -400 Td
+/F1 10 Tf 72 380 Td (Homeo Clinic Management System - Client web app for clinic operations, appointments,) Tj
+-72 -380 Td
+/F1 10 Tf 72 365 Td (patients, prescriptions, admin dashboard, secure authentication, and database integration.) Tj
+-72 -365 Td
+/F1 10 Tf 72 345 Td (Hospital Recommendation System - Responsive platform recommending hospitals based on) Tj
+-72 -345 Td
+/F1 10 Tf 72 330 Td (user preferences and location with backend filtering logic.) Tj
+-72 -330 Td
+/F1 10 Tf 72 310 Td (E-Waste Collection Management System - CRUD system for collection requests with database) Tj
+-72 -310 Td
+/F1 10 Tf 72 295 Td (connectivity and efficient request handling.) Tj
+-72 -295 Td
+/F1 14 Tf 72 265 Td (SERVICES) Tj
+-72 -265 Td
+/F1 10 Tf 72 245 Td (Full Stack Web Development | Django Backend Development | REST API Development | Database Design) Tj
+-72 -245 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2719
+%%EOF
