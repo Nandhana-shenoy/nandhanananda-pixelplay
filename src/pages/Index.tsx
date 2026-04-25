@@ -17,7 +17,7 @@ import {
   Trophy,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/nandhanananda-profile.png";
+import profileImage from "@/assets/nandhanananda-profile-updated.jpg";
 
 const navItems = ["About", "Education", "Skills", "Services", "Projects", "Interests", "Contact"];
 
